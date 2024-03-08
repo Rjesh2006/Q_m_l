@@ -72,6 +72,6 @@ Nonlinear functions applied to the output of each neuron,enabling the network to
 **Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.**
 
 
-[Refrenc's](https://aws.amazon.com/what-is/deep-learning/)
+[Refrenc's:clisk here to get the deep info ◀️](https://aws.amazon.com/what-is/deep-learning/)
 
 
