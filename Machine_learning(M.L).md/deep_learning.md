@@ -49,23 +49,23 @@ Nonlinear functions applied to the output of each neuron,enabling the network to
 
 **While deep learning offers significant advantages, it also poses several challenges, including:**
 
-***Data Quality and Quantity:***
+**Data Quality and Quantity:**
 
-**Deep learning models require large amounts of high-quality labeled data for training, which can be costly and time-consuming to obtain.**
+***Deep learning models require large amounts of high-quality labeled data for training, which can be costly and time-consuming to obtain.***
 
-***Computational Resources:*** 
+**Computational Resources:**
 
-**Training deep learning models often demands substantial computational power, including GPUs and TPUs, leading to high infrastructure costs.**
+***Training deep learning models often demands substantial computational power, including GPUs and TPUs, leading to high infrastructure costs.***
 
-***Interpretability:***
+**Interpretability:**
 
-**Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications like healthcare and finance.**
+***Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications like healthcare and finance.***
 
-***Overfitting:***
+**Overfitting:**
 
-**Deep learning models may memorize noise or irrelevant patterns in the training data, leading to poor generalization on unseen data.**
+***Deep learning models may memorize noise or irrelevant patterns in the training data, leading to poor generalization on unseen data.***
 
-**Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.**
+***Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.***
 
 
 
