@@ -77,4 +77,4 @@ Depending on your budget, need for speed, and precision required, each algorithm
   - Gathering sufficient data and having a robust system to process it might be resource-intensive.
   - Machine learning models can be prone to error, especially with small sample sizes.
   - Organizations should act on the answers only when there is high confidence in the output to avoid wasting budget or displeasing customers.
-[clisk here to the deep info about the algos of machine learning](https://www.ibm.com/topics/machine-learning-algorithms)
+[clisk here to get the deep info about the algos of machine learning](https://www.ibm.com/topics/machine-learning-algorithms)
