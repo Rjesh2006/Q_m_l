@@ -22,4 +22,3 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that involves 
 
 9. **Monitoring and Maintenance**: Continuously monitoring the performance of the deployed model and updating it as needed to ensure its accuracy and reliability over time.
 
-Overall, machine learning algorithms aim to iteratively improve their performance by learning from data and making adjustments based on feedback, ultimately enabling them to make more accurate predictions or decisions in various applications.
