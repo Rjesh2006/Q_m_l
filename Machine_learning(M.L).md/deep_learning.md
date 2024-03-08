@@ -6,7 +6,7 @@
 
 ## Need of Deep Learning Important?
 
-***Deep learning plays a crucial role in advancing AI technologies and powering applications that require human-like perception and decision-making capabilities. Some reasons why deep learning is important include:***
+**Deep learning plays a crucial role in advancing AI technologies and powering applications that require human-like perception and decision-making capabilities. Some reasons why deep learning is important include:**
 
 ***Automation of Complex Tasks:*** 
 **Deep learning enables computers to automate tasks that traditionally required human intelligence, such as image classification, speech recognition, and language translation.**
@@ -25,7 +25,7 @@
 
 ## How Does Deep Learning Work?
 
-***Deep learning algorithms learn from data through a process called training. During training, the neural network adjusts its parameters (weights and biases) based on the input data and the desired output. This process involves feeding large amounts of labeled data into the network and iteratively updating the parameters to minimize the difference between the predicted output and the actual output.***
+**Deep learning algorithms learn from data through a process called training. During training, the neural network adjusts its parameters (weights and biases) based on the input data and the desired output. This process involves feeding large amounts of labeled data into the network and iteratively updating the parameters to minimize the difference between the predicted output and the actual output.**
 
 
 ## Key components of deep learning networks include:
@@ -51,21 +51,21 @@ Nonlinear functions applied to the output of each neuron,enabling the network to
 
 **Data Quality and Quantity:**
 
-***Deep learning models require large amounts of high-quality labeled data for training, which can be costly and time-consuming to obtain.***
+**Deep learning models require large amounts of high-quality labeled data for training, which can be costly and time-consuming to obtain.**
 
 **Computational Resources:**
 
-***Training deep learning models often demands substantial computational power, including GPUs and TPUs, leading to high infrastructure costs.***
+**Training deep learning models often demands substantial computational power, including GPUs and TPUs, leading to high infrastructure costs.**
 
 **Interpretability:**
 
-***Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications like healthcare and finance.***
+**Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications like healthcare and finance.**
 
 **Overfitting:**
 
-***Deep learning models may memorize noise or irrelevant patterns in the training data, leading to poor generalization on unseen data.***
+**Deep learning models may memorize noise or irrelevant patterns in the training data, leading to poor generalization on unseen data.**
 
-***Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.***
+**Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.**
 
 
 
