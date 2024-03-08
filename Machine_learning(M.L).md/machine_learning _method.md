@@ -6,12 +6,12 @@
 
 **Supervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. As input data is fed into the model, the model adjusts its weights until it has been fitted appropriately. This occurs as part of the cross-validation process to ensure that the model avoids overfitting or underfitting. Supervised learning helps organizations solve a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox. Some methods used in supervised learning include:**
 
-- Neural networks
-- Naïve Bayes
-- Linear regression
-- Logistic regression
-- Random forest
-- Support vector machine (SVM)
+- *Neural networks*
+- *Naïve Bayes*
+- *Linear regression*
+- *Logistic regression*
+- *Random forest*
+- *Support vector machine (SVM)*
 
 ### Unsupervised Machine Learning
 
