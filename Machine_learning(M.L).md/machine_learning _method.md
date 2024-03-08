@@ -17,16 +17,16 @@
 
 **Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets (subsets called clusters). These algorithms discover hidden patterns or data groupings without the need for human intervention. This method’s ability to discover similarities and differences in information makes it ideal for:**
 
-- Exploratory data analysis
-- Cross-selling strategies
-- Customer segmentation
-- Image and pattern recognition
+- *Exploratory data analysis*
+- *Cross-selling strategies*
+- *Customer segmentation*
+- *Image and pattern recognition*
 
 It’s also used to reduce the number of features in a model through the process of dimensionality reduction. Principal component analysis (PCA) and singular value decomposition (SVD) are two common approaches for this. Other algorithms used in unsupervised learning include:
 
-- Neural networks
-- K-means clustering
-- Probabilistic clustering methods
+- *Neural networks*
+- *K-means clustering*
+- *Probabilistic clustering methods*
 
 ### Semi-Supervised Learning
 
