@@ -9,18 +9,22 @@
 **Deep learning plays a crucial role in advancing AI technologies and powering applications that require human-like perception and decision-making capabilities. Some reasons why deep learning is important include:**
 
 ***Automation of Complex Tasks:*** 
+
 **Deep learning enables computers to automate tasks that traditionally required human intelligence, such as image classification, speech recognition, and language translation.**
 
 ***Handling Unstructured Data:*** 
+
 **Deep learning models can process unstructured data like images, text, and audio, making them applicable to a wide range of real-world problems.**
 
 ***Improved Accuracy:*** 
 **Deep learning algorithms can learn complex patterns and relationships in data, leading to more accurate predictions and decisions compared to traditional machine learning approaches.**
 
 ***Scalability:***  
+
 **Deep learning models can scale with the amount of data and computational resources available, allowing for the analysis of large datasets and complex problems.**
 
 ***Innovation in Various Industries:***
+
 **Deep learning is driving innovation in industries such as healthcare, automotive, finance, and retail, revolutionizing processes and creating new opportunities for businesses and consumers.**
 
 ## How Does Deep Learning Work?
