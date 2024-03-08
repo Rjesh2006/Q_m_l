@@ -1,10 +1,10 @@
 ## Machine Learning Methods
 
-Machine learning models fall into three primary categories:
+**Machine learning models fall into three primary categories:**
 
 ### Supervised Machine Learning
 
-Supervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. As input data is fed into the model, the model adjusts its weights until it has been fitted appropriately. This occurs as part of the cross-validation process to ensure that the model avoids overfitting or underfitting. Supervised learning helps organizations solve a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox. Some methods used in supervised learning include:
+**Supervised learning, also known as supervised machine learning, is defined by its use of labeled datasets to train algorithms to classify data or predict outcomes accurately. As input data is fed into the model, the model adjusts its weights until it has been fitted appropriately. This occurs as part of the cross-validation process to ensure that the model avoids overfitting or underfitting. Supervised learning helps organizations solve a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox. Some methods used in supervised learning include:**
 
 - Neural networks
 - Naïve Bayes
@@ -15,7 +15,7 @@ Supervised learning, also known as supervised machine learning, is defined by it
 
 ### Unsupervised Machine Learning
 
-Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets (subsets called clusters). These algorithms discover hidden patterns or data groupings without the need for human intervention. This method’s ability to discover similarities and differences in information makes it ideal for:
+**Unsupervised learning, also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets (subsets called clusters). These algorithms discover hidden patterns or data groupings without the need for human intervention. This method’s ability to discover similarities and differences in information makes it ideal for:**
 
 - Exploratory data analysis
 - Cross-selling strategies
@@ -30,7 +30,7 @@ It’s also used to reduce the number of features in a model through the process
 
 ### Semi-Supervised Learning
 
-Semi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled dataset to guide classification and feature extraction from a larger, unlabeled dataset. Semi-supervised learning can solve the problem of not having enough labeled data for a supervised learning algorithm. It also helps if it’s too costly to label enough data.
+**Semi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled dataset to guide classification and feature extraction from a larger, unlabeled dataset. Semi-supervised learning can solve the problem of not having enough labeled data for a supervised learning algorithm. It also helps if it’s too costly to label enough data.**
 
 For a deep dive into the differences between these approaches, check out ["Supervised vs. Unsupervised Learning: What's the Difference?"](https://www.example.com)
 
