@@ -30,6 +30,7 @@
 ## How Does Deep Learning Work?
 
 **Deep learning algorithms learn from data through a process called training. During training, the neural network adjusts its parameters (weights and biases) based on the input data and the desired output. This process involves feeding large amounts of labeled data into the network and iteratively updating the parameters to minimize the difference between the predicted output and the actual output.**
+![image](https://github.com/Rjesh2006/Q_m_l/assets/143868643/7cd607d9-0b2b-4b4b-a249-b2629b8a49ec)
 
 
 ## Key components of deep learning networks include:
