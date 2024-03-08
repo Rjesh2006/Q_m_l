@@ -72,5 +72,6 @@ Nonlinear functions applied to the output of each neuron,enabling the network to
 **Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.**
 
 
-[Refrenc's](cliskc here to get the deeb info -> )
+[Refrenc's](cliskc here to get the deeb info)
+
 
