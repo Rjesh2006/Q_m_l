@@ -1,6 +1,6 @@
 ## Deep Learning? 
 
-**Deep learning involves training artificial neural networks, which are computational models inspired by the structure and function of the human brain. These neural networks consist of interconnected layers of nodes, or artificial neurons, each performing simple calculations. The "deep" in deep learning refers to the presence of multiple layers in these networks, enabling them to learn complex representations of data.**
+[**Deep learning involves training artificial neural networks, which are computational models inspired by the structure and function of the human brain. These neural networks consist of interconnected layers of nodes, or artificial neurons, each performing simple calculations. The "deep" in deep learning refers to the presence of multiple layers in these networks, enabling them to learn complex representations of data.**](https://aws.amazon.com/what-is/deep-learning/)
 
 **Deep learning models can automatically learn features from raw data, eliminating the need for manual feature engineering. They excel at tasks such as image recognition, natural language processing, and speech recognition, making them versatile tools for various AI applications.**
 
