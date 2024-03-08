@@ -32,4 +32,3 @@ A machine learning model is like the brain of this computer. It's a set of mathe
 
 A machine learning model is like a brain that learns from data to make decisions or predictions. By analyzing patterns in labeled data, adjusting its internal parameters, and evaluating its performance, the model becomes capable of recognizing patterns and making decisions on new, unseen data.
 
-### Sources of Data:
