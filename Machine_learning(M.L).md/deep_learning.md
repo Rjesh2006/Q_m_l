@@ -38,13 +38,13 @@
 **Receives raw data as input.**
 
 **- Hidden Layers:
-Intermediate layers that process data and extract features.**
+  Intermediate layers that process data and extract features.**
 
 **- Output Layer: 
 Produces the final output or prediction.**
 
 **- Activation Functions:
-Nonlinear functions applied to the output of each neuron,enabling the network to capture complex relationships.**
+  Nonlinear functions applied to the output of each neuron,enabling the network to capture complex relationships.**
 
 **- Loss Function: Measures the difference between predicted and actual output, guiding the optimization process.**
 
@@ -63,13 +63,15 @@ Nonlinear functions applied to the output of each neuron,enabling the network to
 
 **Interpretability:**
 
-**Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications like healthcare and finance.**
+**Deep learning models are often regarded as black boxes, making it challenging to interpret their decisions, especially in critical applications 
+  like healthcare and finance.**
 
 **Overfitting:**
 
 **Deep learning models may memorize noise or irrelevant patterns in the training data, leading to poor generalization on unseen data.**
 
-**Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability methods.**
+**Addressing these challenges requires advancements in data collection, model architecture, optimization techniques, and interpretability 
+  methods.**
 
 
 [Refrenc's: click here to get the deep info ◀️](https://aws.amazon.com/what-is/deep-learning/)
