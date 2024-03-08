@@ -32,5 +32,5 @@ It’s also used to reduce the number of features in a model through the process
 
 **Semi-supervised learning offers a happy medium between supervised and unsupervised learning. During training, it uses a smaller labeled dataset to guide classification and feature extraction from a larger, unlabeled dataset. Semi-supervised learning can solve the problem of not having enough labeled data for a supervised learning algorithm. It also helps if it’s too costly to label enough data.**
 
-For a deep dive into the differences between these approaches, check out ["Supervised vs. Unsupervised Learning: What's the Difference?"](https://www.example.com)
+For a deep dive into the differences between these approaches, check out ["Supervised vs. Unsupervised Learning: What's the Difference?"](https://www.ibm.com/blog/supervised-vs-unsupervised-learning/)
 
