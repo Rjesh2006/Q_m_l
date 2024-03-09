@@ -14,8 +14,7 @@ Quantum machine learning extends the pool of hardware for machine learning by an
 
 ## Machine Learning on Near-Term Quantum Devices
 
-Some research focuses on ideal, universal quantum computers ("**fault-tolerant QPUs**") which are still years away. But there is rapidly-growing interest in quantum machine learning on near-term quantum devices.![image](https://github.com/Rjesh2006/Q_m_l/assets/143868643/d776740a-76b0-4f8a-b607-af353cf0bdd7)
-
+Some research focuses on ideal, universal quantum computers ("**fault-tolerant QPUs**") which are still years away. But there is rapidly-growing interest in quantum machine learning on near-term quantum devices
 
 We can understand these devices as special-purpose hardware like **Application-Specific Integrated Circuits (ASICs)** and **Field-Programmable Gate Arrays (FPGAs)**, which are more limited in their functionality.
 
