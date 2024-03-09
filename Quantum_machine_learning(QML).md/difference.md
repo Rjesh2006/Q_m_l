@@ -41,5 +41,5 @@ Unsupervised learning uncovers patterns and insights from data without predefine
 
 
 
-![gif](![image](C:\Users\i31\OneDrive\Desktop\gif coin.gif)
+![gif](C:\Users\i31\OneDrive\Desktop\gif coin.gif)
 
