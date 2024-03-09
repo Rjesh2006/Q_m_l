@@ -1,14 +1,14 @@
 # ML v/s QML: A beginner’s overview
 
-Machine learning (ML) and quantum machine learning (QML) are both exciting branches of artificial intelligence (AI), each with its own unique capabilities and applications. Let's explore the basics of each to understand their differences and potential synergies.
+**Machine learning (ML) and quantum machine learning (QML) are both exciting branches of artificial intelligence (AI), each with its own unique capabilities and applications. Let's explore the basics of each to understand their differences and potential synergies.W**
 
 ## Machine Learning (ML)
 
-Machine learning empowers computers to create algorithms or systems based on the data they receive, enabling them to learn and make decisions autonomously. ML models can be broadly categorized into supervised and unsupervised learning.
+**Machine learning empowers computers to create algorithms or systems based on the data they receive, enabling them to learn and make decisions autonomously. ML models can be broadly categorized into supervised and unsupervised learning.**
 
 ### Supervised Learning:
 
-In supervised learning, the computer learns patterns from example input-output pairs to map input data to output data. It includes regression for predicting continuous values and classification for categorizing data discretely. Common algorithms include decision trees, random forests, and neural networks.
+***In supervised learning, the computer learns patterns from example input-output pairs to map input data to output data. It includes regression for predicting continuous values and classification for categorizing data discretely. Common algorithms include decision trees, random forests, and neural networks.***
 
 - **Decision Tree**: Like asking questions to narrow down options until reaching a final decision.
 - **Random Forest**: Multiple decision trees working together, combining predictions to make a final decision.
