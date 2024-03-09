@@ -20,7 +20,7 @@ Unsupervised learning uncovers patterns and insights from data without predefine
 
 ## Quantum Machine Learning (QML)
 
-Quantum machine learning utilizes the principles of quantum computing to enhance machine learning algorithms. Quantum computers leverage properties like superposition and entanglement to access complex and higher-dimensional feature spaces, potentially solving problems faster than classical computers.
+***Quantum machine learning utilizes the principles of quantum computing to enhance machine learning algorithms. Quantum computers leverage properties like superposition and entanglement to access complex and higher-dimensional feature spaces, potentially solving problems faster than classical computers.E***
 
 ### Key Differences and Advantages of QML:
 
