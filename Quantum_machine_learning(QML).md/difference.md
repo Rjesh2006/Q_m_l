@@ -1,6 +1,8 @@
 # ML v/s QML: A beginner’s overview
 
 **Machine learning (ML) and quantum machine learning (QML) are both exciting branches of artificial intelligence (AI), each with its own unique capabilities and applications. Let's explore the basics of each to understand their differences and potential synergies.W**
+![image](https://github.com/Rjesh2006/Q_m_l/assets/143868643/eea08dbd-25ae-44f6-b7ac-9266f00b0d2e)
+
 
 ## Machine Learning (ML)
 
