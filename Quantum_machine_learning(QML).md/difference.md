@@ -39,3 +39,8 @@ Unsupervised learning uncovers patterns and insights from data without predefine
 
 - In future posts, we'll delve deeper into the Quantum Machine Learning field and explore its limitless possibilities.
 
+
+
+![Alt Text](![image](https://github.com/Rjesh2006/Q_m_l/assets/143868643/9fad247f-018b-437e-85e6-07db10001ea1)
+)
+
