@@ -1,4 +1,4 @@
-> # How Quantum Computing Can Improve Classical Machine Learning >
+> # How Quantum Computing Can Improve Classical Machine Learning <
 
 ## Quantum Machine Learning to Solve Linear Algebraic Problems
 - Quantum computers excel at solving linear algebraic problems, including Fourier Transformation, finding eigenvectors and eigenvalues, and solving linear sets of equations over high-dimensional vector spaces.
