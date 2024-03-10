@@ -1,6 +1,6 @@
 # How Quantum Computing Can Improve Classical Machine Learning
 
-## 1)Quantum Machine Learning to Solve Linear Algebraic Problems
+## Quantum Machine Learning to Solve Linear Algebraic Problems
 - Quantum computers excel at solving linear algebraic problems, including Fourier Transformation, finding eigenvectors and eigenvalues, and solving linear sets of equations over high-dimensional vector spaces.
 - Algorithms like the Harrow, Hassidim, and Lloyd (HHL) algorithm demonstrate exponential speedup over classical computers in solving these problems.
 
