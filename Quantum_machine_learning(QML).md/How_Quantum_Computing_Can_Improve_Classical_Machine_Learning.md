@@ -22,6 +22,18 @@
 
 
 
+## 1) Quantum Machine Learning to Solve Linear Algebraic Problems
+
+- A wide variety of Data Analysis and Machine Learning problems are solved by performing matrix operations on vectors in a high-dimensional vector space.
+
+- In quantum computing, the quantum state of the qubits is a vector in a 2^a-dimensional complex vector space. A lot of matrix transformations happen in this space.
+
+- Quantum Computers can solve common linear algebraic problems such as the Fourier Transformation, finding eigenvectors and eigenvalues, and solving linear sets of equations over 2^a-dimensional vector spaces in time that is polynomial in a (and exponentially faster than classical computers due to the Quantum Speedup).
+
+- One of the examples is the Harrow, Hassidim, and Lloyd (HHL) algorithm.
+
+
+
 ## 2) Quantum Principal Component Analysis
 
 Principal Component Analysis (PCA) is a crucial technique for dimensionality reduction in large datasets, facilitating **easier analysis while retaining essential information**. However, traditional PCA methods encounter challenges in high-dimensional datasets, where determining the **significance of each variable** becomes cumbersome.
