@@ -24,4 +24,4 @@ Machine learning is widely used in various fields, including:
 - Autonomous vehicles
 - Financial forecasting
 
-[click here to go through with my (ML) repo's](https://github.com/Rjesh2006/Q_m_l/tree/main/Machine_learning(M.L).md)
+[click here to go through with my (ML) file's](https://github.com/Rjesh2006/Q_m_l/tree/main/Machine_learning(M.L).md)
