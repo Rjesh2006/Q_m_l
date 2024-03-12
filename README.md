@@ -1,4 +1,4 @@
-## What's Machine Learning?
+## What's Machine Learning exactly?
 
 Machine learning is a subset of artificial intelligence (AI) that focuses on developing algorithms and models that enable computers to learn from and make predictions or decisions based on data. In essence, it's a way of teaching computers to learn from patterns and data without being explicitly programmed for every task.
 
