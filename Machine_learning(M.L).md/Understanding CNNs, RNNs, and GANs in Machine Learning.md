@@ -18,4 +18,4 @@
    - Adversarial Training: Generator improves by fooling discriminator.
    - Applications: Image synthesis, style transfer, data augmentation.
 """
-# Feel free to add code examples or further explanations as needed.
+
