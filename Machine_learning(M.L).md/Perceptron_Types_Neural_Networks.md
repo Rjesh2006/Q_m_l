@@ -34,3 +34,5 @@
 - **Functionality**: CNNs learn hierarchical representations of features in the input data by applying convolutional filters to detect local patterns, followed by pooling operations to reduce the spatial dimensions of the features. This hierarchical processing enables CNNs to achieve state-of-the-art performance in image classification, object detection, and image segmentation tasks.
 - **Training**: CNNs are trained using backpropagation with modifications to handle convolutional layers. During training, the network adjusts its weights and biases based on the error between predicted and actual outputs, aiming to minimize a predefined loss function.
 - **Applications**: CNNs are widely used in computer vision tasks, including image
+
+[Refrence's:click here to get the brief info about this points'](https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron)
