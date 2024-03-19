@@ -35,4 +35,4 @@
 - **Training**: CNNs are trained using backpropagation with modifications to handle convolutional layers. During training, the network adjusts its weights and biases based on the error between predicted and actual outputs, aiming to minimize a predefined loss function.
 - **Applications**: CNNs are widely used in computer vision tasks, including image
 
-[Refrence's:click here to get the brief info about this points'](https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron)
+[Refrence's: click here to get the brief info about this points'](https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron)
